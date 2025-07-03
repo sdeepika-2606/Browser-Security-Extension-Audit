@@ -1,0 +1,10 @@
+Suspicious Extensions Removed:
+
+1. Name: Video Downloader Pro
+   Reason: Requested access to all website data; injected unwanted ads; unverified developer.
+
+2. Name: Weather Checker Pro
+   Reason: Poor reviews and suspicious permissions; requested access to clipboard and browsing history.
+
+Date of Cleanup: 3rd July 2025
+Browser Used: Google Chrome
