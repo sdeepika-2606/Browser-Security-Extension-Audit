@@ -1,4 +1,3 @@
-# Browser-Security-Extension-Audit
 # Task 7: Identify and Remove Suspicious Browser Extensions
 
 ## 🔐 Objective
@@ -28,4 +27,5 @@ See `removed_extensions.txt` for details.
 - `browser_extension_risks.md` – Research summary on how browser extensions can be exploited.
 - `screenshots/` – Before and after cleanup images (to be added manually if needed).
 
-
+## 📌 Submission
+[Submit your GitHub Repo here](https://forms.gle/8Gm83s53KbyXs3Ne9)
