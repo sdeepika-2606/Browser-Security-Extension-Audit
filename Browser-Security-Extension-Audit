@@ -1,0 +1,7 @@
+Browser-Security-Extension-Audit/
+├── README.md
+├── removed_extensions.txt
+├── browser_extension_risks.md
+└── screenshots/
+    ├── before_cleanup.png  ← (You can add later)
+    └── after_cleanup.png   ← (You can add later)
